@@ -14,4 +14,5 @@ So what about the word `tolerious`  mean, it was invented by myself.
 
 So in conclusion, the word '`tolerious`' represent that I want to be a kind and patient person.
 
-I'm located in Shanghai, China. 
+I'm located in Shanghai, China. I have been working for 10 years, played the role as embedded engineer(C), backend engineer(Python),
+frontend engineer(Vue,Angular,TypeScript,etc).
