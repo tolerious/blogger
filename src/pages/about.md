@@ -4,7 +4,7 @@ title: 'About Me'
 ---
 # About Me
 
-Hello all, I am tolerious, pronounced as /təˈlaʊrɪs/ or /taʊlerɪs/, either is OK.
+Hello all, I am tolerious, pronounced as /təˈlaʊrɪs/ or /taʊlerɪs/, either is OK. You can call me Toly as well.
 
 So what about the word `tolerious`  mean, it was invented by myself.
 
