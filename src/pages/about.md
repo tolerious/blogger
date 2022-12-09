@@ -4,7 +4,7 @@ title: 'About Me'
 ---
 # About Me
 
-Hello all, my Chinese name is 冯赫龙, and my English name is tolerious, pronounced as /təˈlaʊrɪs/ or /taʊlerɪs/, either is OK.
+Hello all, I am tolerious, pronounced as /təˈlaʊrɪs/ or /taʊlerɪs/, either is OK.
 
 So what about the word `tolerious`  mean, it was invented by myself.
 
